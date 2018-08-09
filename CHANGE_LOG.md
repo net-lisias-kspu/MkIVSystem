@@ -1,5 +1,15 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2014-1129: 0.05 (ChrisAdderley) for KSP 0.25 PRE-RELEASE
+	+ RC1
+	+ Added IVA for Mk4 Cockpit
+	+ Added CLS configs
+	+ Added two wing engine pods
+	+ Added SCIMITAR high-thrust multimode engine
+	+ Adjusted lifting body lift and AoA drag accross the board
+	+ Added small amount of LFO to Cargo Bay and Cargo Tail
+	+ Fixed FAR config (I think), added support for NEAR
+	+ Disabled attachment on moving components of Cargo Tail
 * 2014-1114: 0.04 (ChrisAdderley) for KSP 0.25 PRE-RELEASE
 	+ New parts, new textures, tweaks to parts.
 * 2014-1028: 0.03 (ChrisAdderley) for KSP 0.25 PRE-RELEASE
