@@ -1,5 +1,16 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2017-1027: 2.4.0 (ChrisAdderley) for KSP 1.3.1
+	+ KSP 1.3.1
+	+ Updated MM to 2.8.1
+	+ Updated B9PartSwitch to 1.10.0
+	+ Updated CRP to 0.8.0
+	+ Updated MiniAVC to 1.0.3.3
+	+ Converted all strings to KSP 1.3 localization methods
+	+ Updated CryoTanks patch with new mass ratios: LH2 and LH2O tanks are 1.15x as heavy as their rocket variants (as with stock)
+	+ Deprecated Firespitter Core in favour of KerbalActuators for all propeller-type engines:
+		- Better handling of forward/reverse thrust for various turboprops
+		- Better performance
 * 2017-0310: 2.3.6 (ChrisAdderley) for KSP 1.2.2
 	+ Fixed large cargo bay/drop bay counting its forward area as closed when opened as vice versa
 	+ Fixed lift fans generating static lift at incorrect angles
