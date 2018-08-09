@@ -1,5 +1,23 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2014-1208: 1.1.0 (ChrisAdderley) for KSP 0.25
+	+ Added basic Deadly Reentry MM configs
+	+ Added basic TweakScale MM configs
+	+ Fixed a clipping error in the Mk4 RPM Cockpit IVA
+	+ Fixed intake area for Heavy Structural Intakes
+	+ Adjusted thrust and thrust curve for SCIMITAR engine in FAR/NEAR
+	+ Adjusted and optimized colliders on LFO/LF Fuselages, Cargo Bay, Crew Cabin, Cockpit, Service Compartment, Drone Core, Adapters, Tails
+	+ Adjusted all cargo bay floors, hopefully things will fall through less frequently
+	+ Redid colliders on cargo doors and service compartment top, should be more symmetrical now
+	+ All Mk4 part connections now use size 3 attach nodes instead of size 2 (should decrease wobble)
+	+ Cargo tail, all adapters, all tail pieces, nosecones can no longer be surface attached
+	+ Fixed surface attach node on Crew Cabin, LF Fuselage, LFO Fuselage, Cargo Bay
+	+ Parts can no longer be attached to the Mk4 docking nosecone
+	+ Added missing description to Mk4 nosecone
+	+ Fixed a mesh seam on the Mk4 Triple Adapter
+	+ Added Extended Mk4 Cargo Bay (triple-length cargo bay)
+	+ Added Mk4 Extended Liqid Fuel Fuselage
+	+ Added Mk4 Extended LF+O Fuselage
 * 2014-1201: 1.0.0 (ChrisAdderley) for KSP 0.25
 	+ No changelog provided
 * 2014-1129: 0.05 (ChrisAdderley) for KSP 0.25 PRE-RELEASE
