@@ -1,6 +1,12 @@
 # Mark IV Spaceplane System :: Change Log
 
- * 2016-1021: 2.3.0 (ChrisAdderley) for KSP 1.2
+* 2016-1118: 2.3.2 (ChrisAdderley) for KSP 1.2.1
+ 	+ Marked for KSP 1.2.1
+ 	+ Updated CRP to 0.6.3
+ 	+ Updated MM to 2.7.4
+ 	+ Cabin lights are now tied to the Lights action group
+ 	+ Increased collection distance for EVA science for both cockpits
+* 2016-1021: 2.3.0 (ChrisAdderley) for KSP 1.2
  	+ KSP 1.2
  	+ Dependency update
  	+ Electric drive fans now function below 0.1 atmospheres
