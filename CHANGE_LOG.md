@@ -1,5 +1,24 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2016-0102: 2.1.0 (ChrisAdderley) for KSP 1.0.5 PRE-RELEASE
+	+ KSP 1.05
+	+ Added MiniAVC versioning
+	+ Converted cargo ramp to use stock module (deprecated old one)
+	+ All jet engines now use the correct 1.05 fuel flow mode
+	+ All cargo bays can now use the tweakable opening module
+	+ All engines now use the delayed animation module for heat animations
+	+ Adjusted intake effectiveness to match 1.05 intakes
+	+ Respecced and remodeled Arcadia turbojet as a medium-performance jet with thrust reversers
+	+ Added Mk4 Vulture cockpit - pointy cockpit with integrated docking port
+	+ Added CUTLASS: 2.5m high-efficiency RAPIER-style engine
+	+ Added Valkyrie turboramjet: high performance high altitude 2.5m engine 
+	+ Added Kerboshov D27 Propfan engine (efficient heavy propeller engine)
+	+ Added APR-4000 Buzzsaw Turboprop engine (powerful heavy propeller engine)
+	+ Added 3 lengths of basic 2.5m liquid fuel tanks (LF, LF/O, structural)
+	+ Increased occlusion detection radius for all cargo bays
+	+ Fixed facing of SCIMITAR's rear attach node
+	+ Fixed RCS blister's surface attach node
+	+ Reduced the spooling time on the Yellowjacket engine
 * 2015-0724: 2.0.0 (ChrisAdderley) for KSP 1.0.4
 	+ Remodel and retexture of all 1.x generation parts parts. Notable changes:
 	+ Increase in size of approximately 25% for all parts
