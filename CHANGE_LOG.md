@@ -1,5 +1,15 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2017-0125: 2.3.4 (ChrisAdderley) for KSP 1.2.2
+	+ Marked for KSP 1.2.2
+	+ Updated CRP to 0.6.4
+	+ Updated MM to 2.7.5
+	+ Updated B9PartSwitch to 1.5.3
+	+ Updated Firespitter to 7.5.1
+	+ Updated DeployableEngines to 2.1.0
+	+ Fixed node size issue in SCIMITAR cfg
+	+ Some tweaks to Crew Cabin drag parameters
+	+ Fixed a MM path throwing errors on startup
 * 2016-1122: 2.3.3 (ChrisAdderley) for KSP 1.2.1
 	+ Fixed problems with Heavy RCS Blister thrust vectors
 	+ Fixed cargo bay module occluding the wrong nodes for all regular/ventral bays
