@@ -1,5 +1,24 @@
 # Mark IV Spaceplane System :: Change Log
 
+ * 2016-1021: 2.3.0 (ChrisAdderley) for KSP 1.2
+ 	+ KSP 1.2
+ 	+ Dependency update
+ 	+ Electric drive fans now function below 0.1 atmospheres
+ 	+ Added 1.2 features to parts
+ 	+ Thunderhawk cockpit can now function as a control pointAll RCS blocks converted to ModuleRCSFX, adds sound and new FX
+ 	+ Fixed ARV-50-2 Heavy Symmetric RCS Blister not showing up in career
+ 	+ Fixed missing cross sectional profile for Mk4 Crew Cabin
+ 	+ Added missing part search tags to all parts
+ 	+ Fixed reverse thrust on turboprops
+ 	+ Corrected instances of inconsistent manufacturer names
+ 	+ Fixed some typos in some part descriptions
+ 	+ Moved all cargo bay parts to the Payload category
+ 	+ Moved all docking parts to the Coupling category
+ 	+ Reexported all engine FX with correct layering to fix interaction with atmospheric effects
+ 	+ Increased breaking force/torque of all 2.5m nacelles
+ 	+ Increased BROADSWORD thrust to 530/820 from 490/720, increased vacum Isp slightly
+ 	+ Increased CUTLASS thrust to 470/700 from 430/670, increased rocket Isp to 225/345 from 185/340
+ 	+ Fixed some bugs in the cockpit IVAs. Still not perfect but at least they're less obvious now.
 * 2016-0715: 2.2.1 (ChrisAdderley) for KSP 1.1.3
  	+ Fixed fuel capacity for basic Mk4 fuselages
  	+ Fixed CTT patch assigning some parts to nonexistant nodes
