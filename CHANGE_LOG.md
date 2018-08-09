@@ -1,5 +1,9 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2016-1122: 2.3.3 (ChrisAdderley) for KSP 1.2.1
+	+ Fixed problems with Heavy RCS Blister thrust vectors
+	+ Fixed cargo bay module occluding the wrong nodes for all regular/ventral bays
+	+ Added patch to add cryogenic LH2 and LH2/O fuel storage modes to certain parts (fuselages, tails and adapters) if CryoTanks is installed.
 * 2016-1118: 2.3.2 (ChrisAdderley) for KSP 1.2.1
  	+ Marked for KSP 1.2.1
  	+ Updated CRP to 0.6.3
