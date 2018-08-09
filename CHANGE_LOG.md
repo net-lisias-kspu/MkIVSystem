@@ -1,5 +1,10 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2016-0103: 2.1.1 (ChrisAdderley) for KSP 1.0.5
+	+ Fix to thermal values for most parts
+	+ Fixed incorrect BDAnimationModules version
+	+ Fixed FAR patch for crew cabin
+	+ Fixed duplicate lift module in crew cabin
 * 2016-0102: 2.1.0 (ChrisAdderley) for KSP 1.0.5 PRE-RELEASE
 	+ KSP 1.05
 	+ Added MiniAVC versioning
