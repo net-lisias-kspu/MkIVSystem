@@ -1,5 +1,25 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2016-0630: 2.2.0 (ChrisAdderley) for KSP 1.1.3
+	+ KSP 1.1.3 update
+	+ Upgraded bundled ModuleManager to 2.6.25
+	+ Upgraded bundled Firespitter 1.4.1
+	+ Switched from BDAnimationModules to DeployableEngines for all engine animation functionality
+	+ Switched from IFS to B9PartSwitch for all model/part switching functionality
+	+ Added IVA blocking meshes for both Mk4 cockpits and the crew cabin
+	+ Added sound loops for turboprops
+	+ Added USI Life Support compatibility patch
+	+ Added HVR-ONE, HVR-TWO, HVR-THREE heavy lift fans
+	+ Added Mk4 'Skate' Tailpiece
+	+ Added ARV-50-2 Heavy Symmetric RCS Blister
+	+ Added Mk2A 100X Aviation Fuel Tank
+	+ Tweaked CUTLASS and BROADSWORD engine FX
+	+ Fixed orientation of the surface attach node on the 2.5m precooler and fuel tanks
+	+ Fixed CLS passability for the Thunderhawk cockpit
+	+ Added workaround for Thunderhawk cockpit's integrated docking port and control directions
+	+ Fixed propeller spinners being shown on models in the parts list
+	+ Made a WIP part invisible in the research facility and in search
+	+ Corrected a few inconsistent masses in some parts
 * 2016-0103: 2.1.1 (ChrisAdderley) for KSP 1.0.5
 	+ Fix to thermal values for most parts
 	+ Fixed incorrect BDAnimationModules version
