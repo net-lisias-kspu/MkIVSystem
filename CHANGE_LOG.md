@@ -1,5 +1,14 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2014-1215: 1.1.2 (ChrisAdderley) for KSP 0.25
+	+ Fixed a major bug in the MM configs that would cause all parts to always have their FAR/DRE/TS patches loaded
+	+ Fixed low impact tolerance of Mk4 Cockpit, Crew Cabin and Drone Core
+	+ Fixed the dry mass of the Extended LFO and LF fuselages being 1/3 too low
+	+ Fixed a few more FAR omissions
+	+ Fixed attach symmetry on the Mk4 Triple Adapter
+	+ Improved the look of the Mk4 Cockpit's intakes
+	+ Disembarking from the Mk4 Cockpit should now be prioritized to the front hatch
+	+ Hatches from the Crew Cabin and Cockpit should be easier to click on
 * 2014-1211: 1.1.1 (ChrisAdderley) for KSP 0.25
 	+ Fixed DRE patch for SCIMITARs being wrong
 	+ Changed how MM patches for mod compatability are applied for easier end-user tweaking
