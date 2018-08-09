@@ -1,5 +1,18 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2017-0302: 2.3.5 (ChrisAdderley) for KSP 1.2.2
+	+ Fixed missing ModuleManager in the download
+	+ Updated B9Partswitch to 1.7.1
+	+ Updated CRP to 0.6.6
+	+ Fix for crew hatch obscured problem on Mk4 Crew Cabin
+	+ New drag cube for Mk4 Shoulder Intake
+	+ Fix for cargo bay node occlusion (requires rebuild of your cargo bays!)
+	+ Fix for large cargo bay's occlusion testing spheres
+	+ Inverted animation directions for cargo bays; now open at start.
+	+ Reduced air intake ratio of lift fans in LF mode (22 -> 14)
+	+ Reduced all fuselage body lift values by 33%
+	+ Fixed incorrect node for the AE-4 Turboramjet
+	+ Fixed incorrect velocity curve for Arcadia-593 Turbofan thrust reverser
 * 2017-0125: 2.3.4 (ChrisAdderley) for KSP 1.2.2
 	+ Marked for KSP 1.2.2
 	+ Updated CRP to 0.6.4
