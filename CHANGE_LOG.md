@@ -1,5 +1,7 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2014-1201: 1.0.0 (ChrisAdderley) for KSP 0.25
+	+ No changelog provided
 * 2014-1129: 0.05 (ChrisAdderley) for KSP 0.25 PRE-RELEASE
 	+ RC1
 	+ Added IVA for Mk4 Cockpit
