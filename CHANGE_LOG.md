@@ -1,5 +1,9 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2016-0715: 2.2.1 (ChrisAdderley) for KSP 1.1.3
+ 	+ Fixed fuel capacity for basic Mk4 fuselages
+ 	+ Fixed CTT patch assigning some parts to nonexistant nodes
+ 	+ Fixed an issue where multiple blade rotators would conflict on lift fans
 * 2016-0630: 2.2.0 (ChrisAdderley) for KSP 1.1.3
 	+ KSP 1.1.3 update
 	+ Upgraded bundled ModuleManager to 2.6.25
