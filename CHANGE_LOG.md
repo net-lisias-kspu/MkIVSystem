@@ -1,5 +1,7 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2014-1114: 0.04 (ChrisAdderley) for KSP 0.25 PRE-RELEASE
+	+ New parts, new textures, tweaks to parts.
 * 2014-1028: 0.03 (ChrisAdderley) for KSP 0.25 PRE-RELEASE
 	+ Textures for many parts, new parts
 * 2014-1018: 0.02 (ChrisAdderley) for KSP 0.25 PRE-RELEASE
