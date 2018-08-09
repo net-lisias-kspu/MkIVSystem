@@ -1,5 +1,13 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2014-1211: 1.1.1 (ChrisAdderley) for KSP 0.25
+	+ Fixed DRE patch for SCIMITARs being wrong
+	+ Changed how MM patches for mod compatability are applied for easier end-user tweaking
+	+ Increased area of Heavy Structural Intakes slightly (about 1.25x as effective)
+	+ Increased strength of Cargo Bay connections
+	+ Added intakes to the Mk4 Cockpit (~1 Shock Cone intake effectiveness)
+	+ Added custom SFX to the SCIMITAR
+	+ Added Yellowjacket VTOL jet engine - high thrust, overheats easily
 * 2014-1208: 1.1.0 (ChrisAdderley) for KSP 0.25
 	+ Added basic Deadly Reentry MM configs
 	+ Added basic TweakScale MM configs
