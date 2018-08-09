@@ -1,5 +1,10 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2017-0310: 2.3.6 (ChrisAdderley) for KSP 1.2.2
+	+ Fixed large cargo bay/drop bay counting its forward area as closed when opened as vice versa
+	+ Fixed lift fans generating static lift at incorrect angles
+	+ Reduced lift fans' static lift by 50%
+	+ Increased the range and response speed of lift fan gimbals
 * 2017-0302: 2.3.5 (ChrisAdderley) for KSP 1.2.2
 	+ Fixed missing ModuleManager in the download
 	+ Updated B9Partswitch to 1.7.1
