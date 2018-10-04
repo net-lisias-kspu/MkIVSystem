@@ -1,5 +1,14 @@
 # Mark IV Spaceplane System :: Change Log
 
+* 2018-0921: 3.0.0 (ChrisAdderley) for KSP 1.4.5
+	+ KSP 1.4.5
+	+ Widened valid version range to up to KSP 1.4.99
+	+ Updated B9PartSwitch to 2.3.3
+	+ Updated ModuleManager to 3.0.7
+	+ Removed CRP, KerbalActuators from distribution
+	+ Split pack: only Mk4 fuselage profile parts remain. Rest moved to 	+ Near Future Aeronautics
+	+ Updated NF Props to 0.3.4
+	+ Fixed RPM patch
 * 2017-1215: 2.4.1 (ChrisAdderley) for KSP 1.3.1
 	+ Updated B9PartSwitch to 2.1.0
 	+ Updated NFProps to 0.2.1
