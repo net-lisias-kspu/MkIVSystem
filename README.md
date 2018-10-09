@@ -1,6 +1,9 @@
 # Mark IV Spaceplane System Unofficial
 
-This is a parts pack for Kerbal Space Program, providing a new stockalike spaceplane fuselage system that is designed for hauling very large parts.  Unofficial fork by Lisias.
+**THIS REPOSITORY LOST HIS MEANINGFULNESS**. It's not needed anymore, and will be moved to the "attic" in the near future.
+
+Please see the UPSTREAM below for the Official Version.
+
 
 ## In a Hurry
 
